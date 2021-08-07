@@ -4,10 +4,10 @@ Allow: /
 Mozilla/5.0 (compatible; Yeti/1.1; +http://naver.me/spd)
 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebit/53.7.36 (KHTML, like Gecko) Chrome/63.0.3239.0 Safari/537.36 (compatible; Yeti/1.1; +http://naver.me/spd)
 
-Sitemap: https://ybh106.netlify.app/
-
 #DaumWebMasterTool:80a928f4b73d8f36ab51995f1891f541105d4e6dd41c02a13435f2c7e638e852:hRUmiGexKYLpWhX6YQSrcQ==
-http://ybh106.netlify.app
+https://ybh106.netlify.app
+
+Sitemap: https://ybh106.netlify.app/sitemap.xml
 
 Made By. 김영현
 Copyright ©️ 김영현 Young-Hyun Kim (KIMYH Team). All Rights Reserved.
