@@ -18,6 +18,12 @@
     <changefreq>always</changefreq>
     <priority>0.0</priority>
   </url>
+
+  <url>
+    <loc>https://ybh106.netlify.app/info</loc>
+    <changefreq>always</changefreq>
+    <priority>0.0</priority>
+  </url>
 </urlset>
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
 <!--Edited By. 김영현-->
