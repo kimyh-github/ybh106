@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Made By. 김영현 Young-Hyun Kim (KIMYH Team)-->   
-<rss version="2.0">
-  <channel>
-    <title>용인백현중학교 1-6 | @ybh106</title>
-    <link>https://ybh106.netlify.app</link>
-    <description />
-    <item>
-      <guid>https://ybh106.netlify.app</guid>
-      <title>용인백현중학교 1-6 | @ybh106</title>
-      <link>https://ybh106.netlify.app</link>
-      <description />
-    </item>
-    <item>
-      <guid>https://ybh106n.netlify.app</guid>
-      <title>용인백현중학교 1-6 | @ybh106</title>
-      <link>https://ybh106.netlify.app</link>
-      <description />
-    </item>
-  </channel>
-</rss>
-<!--Made By. 김영현 Young-Hyun Kim (KIMYH Team)-->   
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://ybh106.netlify.app</loc>
+    <changefreq>always</changefreq>
+    <priority>0.0</priority>
+  </url>
+
+    <url>
+    <loc>https://ybh106.netlify.app/ch</loc>
+    <changefreq>always</changefreq>
+    <priority>0.0</priority>
+  </url>
+
+    <url>
+    <loc>https://ybh106.netlify.app/no</loc>
+    <changefreq>always</changefreq>
+    <priority>0.0</priority>
+  </url>
+</urlset>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<!--Edited By. 김영현-->
