@@ -1,5 +1,8 @@
 User-agent: *
+Disallow: /ch/-o
+Disallow: /robots.txt
 Allow: /
+Sitemap: https://ybh106.netlify.app/sitemap.xml
 Mozilla/5.0 (compatible; Yeti/1.1; +http://naver.me/spd)
 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebit/53.7.36 (KHTML, like Gecko) Chrome/63.0.3239.0 Safari/537.36 (compatible; Yeti/1.1; +http://naver.me/spd)
 
